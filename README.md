@@ -26,7 +26,7 @@ We are able to achieve 71% accuracy on both training data and testing data on bo
 ![Confusion Matrix](image/confusion_matrix.png)
 
 ## Presentation
-![Link to PDF](https://github.com/garrettwilliams90/SentimentAnalysisProject/blob/main/Tweet%20Sentiment%20for%20Investment.pdf)
+[Link to PDF](https://github.com/garrettwilliams90/SentimentAnalysisProject/blob/main/Tweet%20Sentiment%20for%20Investment.pdf)
 
 ## Authors
 - Ely Lin
