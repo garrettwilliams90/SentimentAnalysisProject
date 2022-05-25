@@ -1,5 +1,5 @@
 # SentimentAnalysisProject
-![Rich Twitter Bird](https://edlatimore.com/uploads/thumbnails/buy-retweets-ed-latimore.jpeg)
+![Rich Twitter Bird](https://www.adweek.com/wp-content/uploads/files/news_article/twitter-bird-dollars-hed-2014.jpg)
 
 ## Project Overview
 In a world where technology startups are plentiful, consumer sentiment towards a brand can give us a lot of insights into their purchasing decisions, hence the financial performance of the company that makes them. Technology investment company WhiteOre have acquired our services to build them a predictive model that monitors recent tweets on technology products to help them make informed investment decisions. WhiteOre wants a generalizable model to gauge sentiment across different brands, to act as a filtering system to help decide which brands to investigate further for possible investment. WhiteOre only cares about whether people have positive emotions towards the brand because people buy things they like.
